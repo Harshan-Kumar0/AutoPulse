@@ -1,5 +1,5 @@
 #AutoPulse
->> Driver's Heart-Rate Monitoring and Alert System
+> Driver's Heart-Rate Monitoring and Alert System
 
 ## Overview
 This project is an IoT-based edge-computing system designed to ensure driver safety by continuously monitoring their heart rate. Designed as an independent, standalone device within the vehicle, it processes sensor data locally without relying on external mobile applications. 
