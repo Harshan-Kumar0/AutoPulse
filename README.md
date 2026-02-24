@@ -1,4 +1,4 @@
-#AutoPulse
+# AutoPulse
 > Driver's Heart-Rate Monitoring and Alert System
 
 ## Overview
